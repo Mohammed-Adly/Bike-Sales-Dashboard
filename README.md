@@ -15,7 +15,7 @@ This project showcases an interactive dashboard built using **Microsoft Excel** 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](/dashboard_image.png)
+![Dashboard Screenshot](Dashboard_Image.png)
 
 ---
 
