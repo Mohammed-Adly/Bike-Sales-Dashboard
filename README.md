@@ -15,7 +15,7 @@ This project showcases an interactive dashboard built using **Microsoft Excel** 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Bike Sales Dashboard/dashboard_screenshot.png)
+![Dashboard Screenshot](Bike_Sales_Dashboard/dashboard_screenshot.png)
 
 ---
 
